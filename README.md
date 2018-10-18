@@ -7,13 +7,16 @@ Download or clone the repository on your machine.
 
 Extract the .zip file
 
+
+Open index.html in your browser. OR Click on this LINK to see the live version of the game .
+
 OR 
 
 you can play the game by click on the below link
 
+ https://padegalmadhuri.github.io/Memory-game/.
 
 
-Open index.html in your browser. OR Click on this LINK to see the live version of the game .
 Rules and Regulations :-
 
 .You have to match cards with identical face.
