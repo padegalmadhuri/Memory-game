@@ -10,6 +10,11 @@ Extract the .zip file
 
 Open index.html in your browser.
 
+Or you can click the below link
+
+ https://padegalmadhuri.github.io/Memory-game/
+
+
 
 Rules and Regulations :-
 
