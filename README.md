@@ -8,7 +8,7 @@ Download or clone the repository on your machine.
 Extract the .zip file
 
 
-Open index.html in your browser. OR Click on this LINK to see the live version of the game .
+Open index.html in your browser.
 
 OR 
 
