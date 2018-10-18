@@ -10,6 +10,8 @@ Extract the .zip file
 
 Open index.html in your browser.
 
+or you can click on this link https://github.com/padegalmadhuri
+
 
 Rules and Regulations :-
 
